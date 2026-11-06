@@ -28,3 +28,4 @@ A co-op multiplayer ship game in Unreal Engine 5 (C++ & Blueprint).
 - **[ChromeProfiler](https://github.com/ahmetelcin/ChromeProfiler)**: Cyberpunk 2077
   mod that saves installed cyberware as named sets at a ripperdoc and re-equips a set
   with one click. Redscript.
+- **[SurvivalKit](https://github.com/ahmetelcin/SurvivalKit)**: Fabric client mod for Minecraft. Java.
